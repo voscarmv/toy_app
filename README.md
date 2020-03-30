@@ -1,69 +1,24 @@
-# Project Name
+# README
 
-> One paragraph statement about the project.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Additional description about the project and its features.
+Things you may want to cover:
 
-## Built With
+* Ruby version
 
-- Major languages,
-- frameworks,
-- technologies used
+* System dependencies
 
-## Live Demo
+* Configuration
 
-[Live Demo Link](https://livedemo.com)
+* Database creation
 
+* Database initialization
 
-## Getting Started
+* How to run the test suite
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+* Services (job queues, cache servers, search engines, etc.)
 
+* Deployment instructions
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
-
-**Oscar Mier**
-- Github: [@voscarmv](https://github.com/voscarmv)
-- Twitter: [@voscarmv](https://twitter.com/voscarmv)
-- Linkedin: [Oscar Mier](https://www.linkedin.com/in/oscar-mier-072984196/) 
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is MIT licensed.
+* ...
