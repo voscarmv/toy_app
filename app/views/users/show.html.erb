@@ -11,8 +11,10 @@
 </p>
 
 <p>
-  <strong>First micropost:</strong>
+  <% if @user.microposts.first.present?   %>
+  <strong><%= "First micropost:" %></strong>
   <%= @user.microposts.first.content %>
+  <% end %>
 </p>
 
 <%= link_to 'Edit', edit_user_path(@user) %> |
