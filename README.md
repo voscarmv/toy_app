@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Heroky live demo](https://damp-ravine-26412.herokuapp.com)
+[Heroku live demo](https://damp-ravine-26412.herokuapp.com)
 
 ### Prerequisites
 
