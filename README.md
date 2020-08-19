@@ -2,6 +2,8 @@
 
 > Solution to the exercises from Chapter 2 in Hartl's book [*Ruby on Rails Tutorial*](https://www.railstutorial.org/), as per [The Odin Project Getting your Feet Wet section](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
+![image](https://user-images.githubusercontent.com/2739245/90671020-b2cc1380-e219-11ea-8301-5b9ffb6396d9.png)
+
 ## Live Demo
 
 [Heroku live demo](https://damp-ravine-26412.herokuapp.com)
